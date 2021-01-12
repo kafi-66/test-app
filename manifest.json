@@ -1,0 +1,9 @@
+{
+
+  "background_color" : "#1abc9c",
+  "name" : "test app",
+  "short_name" : "test_app_part_1",
+  "start_url" : "file:///C:/Users/ASUS/Desktop/test%20app/test%20app%202/index.html",
+  "theme_color" : "#3498db"
+
+}
